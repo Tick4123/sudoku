@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ClearMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EventLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Easy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumButtonSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReturnStack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SudokuGenerate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
